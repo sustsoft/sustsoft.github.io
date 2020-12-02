@@ -1,5 +1,5 @@
 # sustsoft
-Open Source for sustainable world.
+Open Source for sustainable world.</br>
 Recommended List.
 * [Syncthing](https://syncthing.net/) -- [current releases](https://github.com/syncthing/syncthing/releases)
 * [Crytomator](https://cryptomator.org/) -- [current releases](https://github.com/cryptomator/cryptomator/releases)
